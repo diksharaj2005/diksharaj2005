@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python full stack development**
   
--💬 Ask me about **Node.js, React, Firebase... or anything**
+- 💬 Ask me about **Node.js, React, Firebase... or anything**
 
 
 
